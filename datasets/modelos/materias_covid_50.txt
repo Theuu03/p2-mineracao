@@ -1,0 +1,503 @@
+MODELO PARA COLAR 50 MATERIAS SOBRE COVID-19
+Preencha os metadados e cole o texto integral abaixo de texto:. Nao remova os separadores de documento.
+
+=== DOCUMENTO 01 ===
+data: AAAA-MM-DD
+fonte:
+categoria: noticia, artigo cientifico, comunicado ou outra
+titulo:
+url:
+licenca:
+texto:
+
+
+=== DOCUMENTO 02 ===
+data: AAAA-MM-DD
+fonte:
+categoria: noticia, artigo cientifico, comunicado ou outra
+titulo:
+url:
+licenca:
+texto:
+
+
+=== DOCUMENTO 03 ===
+data: AAAA-MM-DD
+fonte:
+categoria: noticia, artigo cientifico, comunicado ou outra
+titulo:
+url:
+licenca:
+texto:
+
+
+=== DOCUMENTO 04 ===
+data: AAAA-MM-DD
+fonte:
+categoria: noticia, artigo cientifico, comunicado ou outra
+titulo:
+url:
+licenca:
+texto:
+
+
+=== DOCUMENTO 05 ===
+data: AAAA-MM-DD
+fonte:
+categoria: noticia, artigo cientifico, comunicado ou outra
+titulo:
+url:
+licenca:
+texto:
+
+
+=== DOCUMENTO 06 ===
+data: AAAA-MM-DD
+fonte:
+categoria: noticia, artigo cientifico, comunicado ou outra
+titulo:
+url:
+licenca:
+texto:
+
+
+=== DOCUMENTO 07 ===
+data: AAAA-MM-DD
+fonte:
+categoria: noticia, artigo cientifico, comunicado ou outra
+titulo:
+url:
+licenca:
+texto:
+
+
+=== DOCUMENTO 08 ===
+data: AAAA-MM-DD
+fonte:
+categoria: noticia, artigo cientifico, comunicado ou outra
+titulo:
+url:
+licenca:
+texto:
+
+
+=== DOCUMENTO 09 ===
+data: AAAA-MM-DD
+fonte:
+categoria: noticia, artigo cientifico, comunicado ou outra
+titulo:
+url:
+licenca:
+texto:
+
+
+=== DOCUMENTO 10 ===
+data: AAAA-MM-DD
+fonte:
+categoria: noticia, artigo cientifico, comunicado ou outra
+titulo:
+url:
+licenca:
+texto:
+
+
+=== DOCUMENTO 11 ===
+data: AAAA-MM-DD
+fonte:
+categoria: noticia, artigo cientifico, comunicado ou outra
+titulo:
+url:
+licenca:
+texto:
+
+
+=== DOCUMENTO 12 ===
+data: AAAA-MM-DD
+fonte:
+categoria: noticia, artigo cientifico, comunicado ou outra
+titulo:
+url:
+licenca:
+texto:
+
+
+=== DOCUMENTO 13 ===
+data: AAAA-MM-DD
+fonte:
+categoria: noticia, artigo cientifico, comunicado ou outra
+titulo:
+url:
+licenca:
+texto:
+
+
+=== DOCUMENTO 14 ===
+data: AAAA-MM-DD
+fonte:
+categoria: noticia, artigo cientifico, comunicado ou outra
+titulo:
+url:
+licenca:
+texto:
+
+
+=== DOCUMENTO 15 ===
+data: AAAA-MM-DD
+fonte:
+categoria: noticia, artigo cientifico, comunicado ou outra
+titulo:
+url:
+licenca:
+texto:
+
+
+=== DOCUMENTO 16 ===
+data: AAAA-MM-DD
+fonte:
+categoria: noticia, artigo cientifico, comunicado ou outra
+titulo:
+url:
+licenca:
+texto:
+
+
+=== DOCUMENTO 17 ===
+data: AAAA-MM-DD
+fonte:
+categoria: noticia, artigo cientifico, comunicado ou outra
+titulo:
+url:
+licenca:
+texto:
+
+
+=== DOCUMENTO 18 ===
+data: AAAA-MM-DD
+fonte:
+categoria: noticia, artigo cientifico, comunicado ou outra
+titulo:
+url:
+licenca:
+texto:
+
+
+=== DOCUMENTO 19 ===
+data: AAAA-MM-DD
+fonte:
+categoria: noticia, artigo cientifico, comunicado ou outra
+titulo:
+url:
+licenca:
+texto:
+
+
+=== DOCUMENTO 20 ===
+data: AAAA-MM-DD
+fonte:
+categoria: noticia, artigo cientifico, comunicado ou outra
+titulo:
+url:
+licenca:
+texto:
+
+
+=== DOCUMENTO 21 ===
+data: AAAA-MM-DD
+fonte:
+categoria: noticia, artigo cientifico, comunicado ou outra
+titulo:
+url:
+licenca:
+texto:
+
+
+=== DOCUMENTO 22 ===
+data: AAAA-MM-DD
+fonte:
+categoria: noticia, artigo cientifico, comunicado ou outra
+titulo:
+url:
+licenca:
+texto:
+
+
+=== DOCUMENTO 23 ===
+data: AAAA-MM-DD
+fonte:
+categoria: noticia, artigo cientifico, comunicado ou outra
+titulo:
+url:
+licenca:
+texto:
+
+
+=== DOCUMENTO 24 ===
+data: AAAA-MM-DD
+fonte:
+categoria: noticia, artigo cientifico, comunicado ou outra
+titulo:
+url:
+licenca:
+texto:
+
+
+=== DOCUMENTO 25 ===
+data: AAAA-MM-DD
+fonte:
+categoria: noticia, artigo cientifico, comunicado ou outra
+titulo:
+url:
+licenca:
+texto:
+
+
+=== DOCUMENTO 26 ===
+data: AAAA-MM-DD
+fonte:
+categoria: noticia, artigo cientifico, comunicado ou outra
+titulo:
+url:
+licenca:
+texto:
+
+
+=== DOCUMENTO 27 ===
+data: AAAA-MM-DD
+fonte:
+categoria: noticia, artigo cientifico, comunicado ou outra
+titulo:
+url:
+licenca:
+texto:
+
+
+=== DOCUMENTO 28 ===
+data: AAAA-MM-DD
+fonte:
+categoria: noticia, artigo cientifico, comunicado ou outra
+titulo:
+url:
+licenca:
+texto:
+
+
+=== DOCUMENTO 29 ===
+data: AAAA-MM-DD
+fonte:
+categoria: noticia, artigo cientifico, comunicado ou outra
+titulo:
+url:
+licenca:
+texto:
+
+
+=== DOCUMENTO 30 ===
+data: AAAA-MM-DD
+fonte:
+categoria: noticia, artigo cientifico, comunicado ou outra
+titulo:
+url:
+licenca:
+texto:
+
+
+=== DOCUMENTO 31 ===
+data: AAAA-MM-DD
+fonte:
+categoria: noticia, artigo cientifico, comunicado ou outra
+titulo:
+url:
+licenca:
+texto:
+
+
+=== DOCUMENTO 32 ===
+data: AAAA-MM-DD
+fonte:
+categoria: noticia, artigo cientifico, comunicado ou outra
+titulo:
+url:
+licenca:
+texto:
+
+
+=== DOCUMENTO 33 ===
+data: AAAA-MM-DD
+fonte:
+categoria: noticia, artigo cientifico, comunicado ou outra
+titulo:
+url:
+licenca:
+texto:
+
+
+=== DOCUMENTO 34 ===
+data: AAAA-MM-DD
+fonte:
+categoria: noticia, artigo cientifico, comunicado ou outra
+titulo:
+url:
+licenca:
+texto:
+
+
+=== DOCUMENTO 35 ===
+data: AAAA-MM-DD
+fonte:
+categoria: noticia, artigo cientifico, comunicado ou outra
+titulo:
+url:
+licenca:
+texto:
+
+
+=== DOCUMENTO 36 ===
+data: AAAA-MM-DD
+fonte:
+categoria: noticia, artigo cientifico, comunicado ou outra
+titulo:
+url:
+licenca:
+texto:
+
+
+=== DOCUMENTO 37 ===
+data: AAAA-MM-DD
+fonte:
+categoria: noticia, artigo cientifico, comunicado ou outra
+titulo:
+url:
+licenca:
+texto:
+
+
+=== DOCUMENTO 38 ===
+data: AAAA-MM-DD
+fonte:
+categoria: noticia, artigo cientifico, comunicado ou outra
+titulo:
+url:
+licenca:
+texto:
+
+
+=== DOCUMENTO 39 ===
+data: AAAA-MM-DD
+fonte:
+categoria: noticia, artigo cientifico, comunicado ou outra
+titulo:
+url:
+licenca:
+texto:
+
+
+=== DOCUMENTO 40 ===
+data: AAAA-MM-DD
+fonte:
+categoria: noticia, artigo cientifico, comunicado ou outra
+titulo:
+url:
+licenca:
+texto:
+
+
+=== DOCUMENTO 41 ===
+data: AAAA-MM-DD
+fonte:
+categoria: noticia, artigo cientifico, comunicado ou outra
+titulo:
+url:
+licenca:
+texto:
+
+
+=== DOCUMENTO 42 ===
+data: AAAA-MM-DD
+fonte:
+categoria: noticia, artigo cientifico, comunicado ou outra
+titulo:
+url:
+licenca:
+texto:
+
+
+=== DOCUMENTO 43 ===
+data: AAAA-MM-DD
+fonte:
+categoria: noticia, artigo cientifico, comunicado ou outra
+titulo:
+url:
+licenca:
+texto:
+
+
+=== DOCUMENTO 44 ===
+data: AAAA-MM-DD
+fonte:
+categoria: noticia, artigo cientifico, comunicado ou outra
+titulo:
+url:
+licenca:
+texto:
+
+
+=== DOCUMENTO 45 ===
+data: AAAA-MM-DD
+fonte:
+categoria: noticia, artigo cientifico, comunicado ou outra
+titulo:
+url:
+licenca:
+texto:
+
+
+=== DOCUMENTO 46 ===
+data: AAAA-MM-DD
+fonte:
+categoria: noticia, artigo cientifico, comunicado ou outra
+titulo:
+url:
+licenca:
+texto:
+
+
+=== DOCUMENTO 47 ===
+data: AAAA-MM-DD
+fonte:
+categoria: noticia, artigo cientifico, comunicado ou outra
+titulo:
+url:
+licenca:
+texto:
+
+
+=== DOCUMENTO 48 ===
+data: AAAA-MM-DD
+fonte:
+categoria: noticia, artigo cientifico, comunicado ou outra
+titulo:
+url:
+licenca:
+texto:
+
+
+=== DOCUMENTO 49 ===
+data: AAAA-MM-DD
+fonte:
+categoria: noticia, artigo cientifico, comunicado ou outra
+titulo:
+url:
+licenca:
+texto:
+
+
+=== DOCUMENTO 50 ===
+data: AAAA-MM-DD
+fonte:
+categoria: noticia, artigo cientifico, comunicado ou outra
+titulo:
+url:
+licenca:
+texto:
+
+

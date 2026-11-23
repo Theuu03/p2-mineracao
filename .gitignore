@@ -1,0 +1,12 @@
+**/node_modules/
+**/.next/
+**/out/
+**/.venv/
+**/__pycache__/
+**/*.py[cod]
+.env
+.env.*
+!.env.example
+*.log
+datasets/importados/*
+!datasets/importados/README.md

@@ -1,0 +1,5 @@
+package br.edu.textoemdados.security;
+
+import java.util.UUID;
+
+public record AuthenticatedUser(UUID id, String email, String displayName) { }
